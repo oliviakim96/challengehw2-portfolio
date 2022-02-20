@@ -2,7 +2,7 @@
 
 ## Description
 
-###It is not looked fancy webpage yet, but I tried to use the skills I learned from module 1 and module 2.
+###I used flexbox/pseudo-classes(hover) a lot to make this portfolio. 
 
 ## Image
 
